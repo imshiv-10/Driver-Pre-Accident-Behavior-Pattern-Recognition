@@ -1,0 +1,6 @@
+# Driver-Pre-Accident-Behavior-Pattern-Recognition
+
+
+# Abstract
+
+Driving a car is a complex task, and it requires complete attention. Distracted driving is any activity that takes away the driver’s attention from the road. Several studies have identified three main types of distraction: visual distractions (driver’s eyes off the road), manual distractions (driver’s hands off the wheel) and cognitive distractions (driver’s mind off the driving task). The National Highway Traffic Safety Administration (NHTSA) reported that 36,750 people died in motor vehicle crashes in 2018, and 12% of it was due to distracted driving. Texting is the most alarming distraction. Sending or reading a text takes your eyes off the road for 5 seconds. At 55 mph, that’s like driving the length of an entire football field with your eyes closed. Many states now have laws against texting, talking on a cell phone, and other distractions while driving. We believe that computer vision can augment the efforts of the governments to prevent accidents caused by distracted driving. Our algorithm automatically detects the distracted activity of the drivers and alerts them. We envision this type of product being embedded in cars to prevent accidents due to distracted driving. We employed algorithms like Adam, Exception, and ResNet50 to achieve the highest level of accuracy.
